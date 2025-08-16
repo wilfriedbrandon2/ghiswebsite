@@ -215,6 +215,10 @@ input:focus{
     .logo-title {
     font-size: 22px;
 }
+.btn-lg-square {
+    width: 40px;
+    height: 40px;
+}
 }
 
 .sticky-top.navbar-light .navbar-brand img {
